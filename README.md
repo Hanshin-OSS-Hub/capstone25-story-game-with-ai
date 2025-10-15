@@ -1,6 +1,7 @@
 # capstone25-story-game-with-ai
 보고서
-
+1주차
+<img width="1190" height="1681" alt="500323583-308873b6-a250-40e9-9a6d-4f88223bd138" src="https://github.com/user-attachments/assets/b45ded9e-2693-484f-b799-6369929bfbbf" />
 2주차
 ![1](https://github.com/user-attachments/assets/2e71d918-74c8-4c28-b6a8-51652927d62c)
 3주차
